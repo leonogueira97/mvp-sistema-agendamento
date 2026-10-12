@@ -111,3 +111,15 @@ mvp-sistema-agendamento/
 ## Validação em campo
 
 Registre pelo menos duas rodadas reais de teste com o representante do negócio. Documente as tarefas realizadas, dificuldades observadas, feedback recebido e alterações efetivamente implementadas. Não apresente feedback fictício como se fosse real.
+
+## Revisão técnica
+
+Esta etapa tem como objetivo avaliar a qualidade do código do Sistema de Agendamento, considerando organização, legibilidade, segurança e facilidade de manutenção.
+
+Serão observados os seguintes pontos:
+
+- Organização das responsabilidades da aplicação.
+- Validação dos dados de clientes e agendamentos.
+- Prevenção de conflitos de horários.
+- Segurança nas operações com o banco de dados.
+- Oportunidades de simplificação e melhoria do código.
